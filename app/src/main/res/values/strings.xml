@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WritingBoard</string>
+    <string name="eraser_part">部分擦除</string>
+    <string name="eraser_all">全部擦除</string>
+</resources>
